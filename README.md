@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRmohakal/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SRmohakal/LeetCode/tree/master/0015-3sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Math
 |  |
@@ -38,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRmohakal/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SRmohakal/LeetCode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRmohakal/LeetCode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SRmohakal/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
