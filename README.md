@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SRmohakal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Counting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRmohakal/LeetCode/tree/master/0011-container-with-most-water) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SRmohakal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
@@ -61,10 +63,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SRmohakal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SRmohakal/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/SRmohakal/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/SRmohakal/LeetCode/tree/master/0477-total-hamming-distance) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SRmohakal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
