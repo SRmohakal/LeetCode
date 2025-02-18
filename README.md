@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SRmohakal/LeetCode/tree/master/0075-sort-colors) |
 | [0477-total-hamming-distance](https://github.com/SRmohakal/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [3723-sum-of-good-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3723-sum-of-good-numbers) |
 ## Math
 |  |
 | ------- |
