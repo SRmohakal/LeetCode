@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Array
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SRmohakal/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/SRmohakal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SRmohakal/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 | [0477-total-hamming-distance](https://github.com/SRmohakal/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3723-sum-of-good-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3723-sum-of-good-numbers) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SRmohakal/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SRmohakal/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SRmohakal/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
