@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SRmohakal/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/SRmohakal/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/SRmohakal/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2181-smallest-index-with-equal-value](https://github.com/SRmohakal/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3723-sum-of-good-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3723-sum-of-good-numbers) |
 ## Math
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SRmohakal/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SRmohakal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
