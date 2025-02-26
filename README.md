@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRmohakal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SRmohakal/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/SRmohakal/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2181-smallest-index-with-equal-value](https://github.com/SRmohakal/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SRmohakal/LeetCode/tree/master/0053-maximum-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SRmohakal/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
