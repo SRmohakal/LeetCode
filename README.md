@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SRmohakal/LeetCode/tree/master/0155-min-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SRmohakal/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SRmohakal/LeetCode/tree/master/0155-min-stack) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SRmohakal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
