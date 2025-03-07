@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRmohakal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SRmohakal/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SRmohakal/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/SRmohakal/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRmohakal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SRmohakal/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Array
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRmohakal/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRmohakal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SRmohakal/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SRmohakal/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
