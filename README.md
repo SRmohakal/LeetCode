@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRmohakal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-sum-of-good-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SRmohakal/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SRmohakal/LeetCode/tree/master/0206-reverse-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
