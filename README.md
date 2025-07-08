@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3934-coupon-code-validator](https://github.com/SRmohakal/LeetCode/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/SRmohakal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRmohakal/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3934-coupon-code-validator](https://github.com/SRmohakal/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SRmohakal/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3934-coupon-code-validator](https://github.com/SRmohakal/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SRmohakal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SRmohakal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SRmohakal/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3934-coupon-code-validator](https://github.com/SRmohakal/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Backtracking
 |  |
 | ------- |
