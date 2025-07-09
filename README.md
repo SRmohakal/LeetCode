@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/SRmohakal/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRmohakal/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SRmohakal/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3934-coupon-code-validator](https://github.com/SRmohakal/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Counting
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SRmohakal/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SRmohakal/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SRmohakal/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Design
 |  |
 | ------- |
