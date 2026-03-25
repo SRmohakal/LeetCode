@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SRmohakal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SRmohakal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SRmohakal/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SRmohakal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SRmohakal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SRmohakal/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SRmohakal/LeetCode/tree/master/0136-single-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SRmohakal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SRmohakal/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SRmohakal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SRmohakal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SRmohakal/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SRmohakal/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SRmohakal/LeetCode/tree/master/0287-find-the-duplicate-number) |
