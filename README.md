@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRmohakal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRmohakal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3723-sum-of-good-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SRmohakal/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SRmohakal/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRmohakal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SRmohakal/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SRmohakal/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SRmohakal/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
