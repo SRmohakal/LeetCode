@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SRmohakal/LeetCode/tree/master/0067-add-binary) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SRmohakal/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SRmohakal/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SRmohakal/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/SRmohakal/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SRmohakal/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SRmohakal/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SRmohakal/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SRmohakal/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SRmohakal/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SRmohakal/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SRmohakal/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SRmohakal/LeetCode/tree/master/0067-add-binary) |
 | [2551-apply-operations-to-an-array](https://github.com/SRmohakal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
