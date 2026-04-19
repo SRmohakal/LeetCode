@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/SRmohakal/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SRmohakal/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SRmohakal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/SRmohakal/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2181-smallest-index-with-equal-value](https://github.com/SRmohakal/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SRmohakal/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SRmohakal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SRmohakal/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SRmohakal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2551-apply-operations-to-an-array](https://github.com/SRmohakal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRmohakal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SRmohakal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SRmohakal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRmohakal/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SRmohakal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SRmohakal/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
