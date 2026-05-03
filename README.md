@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SRmohakal/LeetCode/tree/master/0067-add-binary) |
+| [0796-rotate-string](https://github.com/SRmohakal/LeetCode/tree/master/0796-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SRmohakal/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SRmohakal/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SRmohakal/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
