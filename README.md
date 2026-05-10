@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/SRmohakal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SRmohakal/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRmohakal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SRmohakal/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRmohakal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRmohakal/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SRmohakal/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SRmohakal/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SRmohakal/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
